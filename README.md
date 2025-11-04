@@ -1,4 +1,4 @@
-# 🌟 Перевод сборки: Dungeon Heroes (RPG Series) 1.21 (2.4.2)
+# 🌟 Перевод сборки на русский язык: Dungeon Heroes (RPG Series) 1.21 (2.4.2)
 
 ⚔️ **Explore, Triumph, Loot — Together!**  
 🧭 **Vanilla+ Dungeon Crawler**
